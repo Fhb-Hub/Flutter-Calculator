@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {
           style: new TextStyle(
             fontFamily: 'Calculator',
             fontWeight: FontWeight.bold,
-            fontSize: 35.0,
+            fontSize: 20.0,
             color: Colors.cyan,
           ),
         ),
