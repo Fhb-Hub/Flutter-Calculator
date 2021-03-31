@@ -6,6 +6,8 @@ Desafios da calculadora matemática da aula de Desenvolvimento Mobile da Faculda
 Fellipe Henry Bordon
 
 ## Desafios
+Todos os desafios abaixo foram concluidos com sucesso.
+
 * [X] Trocar a fonte do resultado (tutorial e fonte)
 * [X] Criar um icone para o aplicativo (plugin flutter_launcher_icons, tutorial, gerador de icone)
 * [X] Criar uma tela de splash (tutorial)
